@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agrak-react-challenge/static/css/main.b11f958e.css",
-    "main.js": "/agrak-react-challenge/static/js/main.c7692e1c.js",
+    "main.js": "/agrak-react-challenge/static/js/main.c74e9da8.js",
     "static/js/787.a7bae9ed.chunk.js": "/agrak-react-challenge/static/js/787.a7bae9ed.chunk.js",
     "index.html": "/agrak-react-challenge/index.html",
     "main.b11f958e.css.map": "/agrak-react-challenge/static/css/main.b11f958e.css.map",
-    "main.c7692e1c.js.map": "/agrak-react-challenge/static/js/main.c7692e1c.js.map",
+    "main.c74e9da8.js.map": "/agrak-react-challenge/static/js/main.c74e9da8.js.map",
     "787.a7bae9ed.chunk.js.map": "/agrak-react-challenge/static/js/787.a7bae9ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b11f958e.css",
-    "static/js/main.c7692e1c.js"
+    "static/js/main.c74e9da8.js"
   ]
 }
