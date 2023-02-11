@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//brendamesias.github.io/agrak-react-challenge/static/css/main.b11f958e.css",
+    "main.js": "//brendamesias.github.io/agrak-react-challenge/static/js/main.63482329.js",
+    "static/js/787.a7bae9ed.chunk.js": "//brendamesias.github.io/agrak-react-challenge/static/js/787.a7bae9ed.chunk.js",
+    "index.html": "//brendamesias.github.io/agrak-react-challenge/index.html",
+    "main.b11f958e.css.map": "//brendamesias.github.io/agrak-react-challenge/static/css/main.b11f958e.css.map",
+    "main.63482329.js.map": "//brendamesias.github.io/agrak-react-challenge/static/js/main.63482329.js.map",
+    "787.a7bae9ed.chunk.js.map": "//brendamesias.github.io/agrak-react-challenge/static/js/787.a7bae9ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11f958e.css",
+    "static/js/main.63482329.js"
+  ]
+}
