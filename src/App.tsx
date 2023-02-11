@@ -22,10 +22,12 @@ const router = createBrowserRouter([
     element: <ListUsers />,
   },
   {
-    path: "users/:userId",
+    path: "/users/:userId",
     element: <FormUser />,
   },
-]);
+],{
+  basename: '/agrak-react-challenge'
+});
 
 const queryClient = new QueryClient()
 
