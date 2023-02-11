@@ -1,0 +1,38 @@
+.cardInfoUser {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:90%;
+}
+
+.cardImage {
+    width: 85px !important;
+    margin: 1em;
+    height: fit-content;
+    border-radius: 50%;
+    border: 1px solid #d2d6d9;
+}
+
+
+.cardUser {
+    width: 50%;
+    display: flex;
+    padding: 0 2em;
+    margin:1.5em auto;
+}
+
+@media only screen and (max-width: 700px) {
+    .cardImage{
+        margin: 1em 0;
+        width: 75px !important;
+    }
+    .cardInfoUser{
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .cardUser{
+        width: 80%;
+        padding: 0 1em;
+    }
+};
